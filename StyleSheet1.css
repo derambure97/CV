@@ -1,0 +1,20 @@
+﻿#logo {
+    float: right;    
+}  
+.sidebar-list{
+    list-style:none;
+}
+#purple {
+    display: inline-block;
+    }
+body { 
+        margin:0;
+        padding:0;
+        background: url(background.png) no-repeat center fixed; 
+        -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+        background-size: cover; /* version standardisée */
+        z-index: 1;
+      }
+.container-fluid{
+    z-index: 0;
+}
